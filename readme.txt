@@ -7,3 +7,6 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 Test branch comfict.
 --no-ff modify git merge.
+
+2019.7.29
+this is a sad day, the teacher leave.
