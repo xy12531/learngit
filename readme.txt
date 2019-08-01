@@ -10,4 +10,8 @@ Test branch comfict.
 
 2019.7.29
 this is a sad day, the teacher leave.
+<<<<<<< HEAD
 2019.7.31 a decadent day
+=======
+2019.8.1 a new mounth
+>>>>>>> 0f784849e003482c385309b369766bc29f2869bf
