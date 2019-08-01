@@ -5,3 +5,4 @@ test upload a filt.
 test remote two 
 test remote rename
 test remote remove
+go on test remote remove
